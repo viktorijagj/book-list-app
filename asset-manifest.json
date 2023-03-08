@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/book-list-app/static/css/main.84412f84.css",
+    "main.js": "/book-list-app/static/js/main.a941fd3d.js",
+    "static/media/bookStore.png": "/book-list-app/static/media/bookStore.28e2ea73328a440eca40.png",
+    "index.html": "/book-list-app/index.html",
+    "main.84412f84.css.map": "/book-list-app/static/css/main.84412f84.css.map",
+    "main.a941fd3d.js.map": "/book-list-app/static/js/main.a941fd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84412f84.css",
+    "static/js/main.a941fd3d.js"
+  ]
+}
