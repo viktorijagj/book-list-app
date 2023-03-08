@@ -24,34 +24,9 @@ a {
 }
 
 /* Media query */
-@media only screen and (max-width: 500px) {
-  .main-header-logo {
-    flex-direction: column;
-  }
-  .search-section .search-input {
-    margin-right: 0;
-  }
-}
-@media only screen and (max-width: 990px) {
+@media only screen and (max-width: 900px) {
   body {
     width: 100%;
   }
-  .main-header .all-books-btn {
-    padding: 0.2em 0.7em;
-    font-size: 0.8em;
-  }
-  .search-section {
-    padding: 2em;
-    padding-bottom: 8em;
-  }
-  .search-section .search-input {
-    width: 85%;
-    margin-bottom: 1em;
-  }
-  .book-wrapper {
-    grid-template-columns: 1fr;
-  }
-  .footer {
-    width: inherit;
-  }
 }
+

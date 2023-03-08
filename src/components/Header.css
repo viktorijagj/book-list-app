@@ -24,3 +24,19 @@
     background: #aeaf9836;
     border-radius: 0.5em;
   }
+  /* Media query */
+@media only screen and (max-width: 500px) {
+  .main-header-logo {
+    flex-direction: column;
+  }
+  .main-header .all-books-btn {
+    padding: 0.9em 0.6em;
+    font-size: 0.7em;
+  }
+}
+@media only screen and (min-width:501px) and (max-width: 990px) {
+  .main-header .all-books-btn {
+    padding: 1em 1.2em;
+    font-size: 0.8em;
+  }
+}

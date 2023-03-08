@@ -28,3 +28,17 @@
     margin-right: 1em;
     color: #222;
   }
+
+  /* Media query */
+@media only screen and (max-width: 500px) {
+
+   .book-wrapper {
+    grid-template-columns: 1fr;
+  }
+}
+@media only screen and (min-width:501px) and (max-width: 990px) {
+
+  .book-wrapper {
+    grid-template-columns: 1fr;
+  }
+}
