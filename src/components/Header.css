@@ -3,16 +3,11 @@
     background: linear-gradient(360deg, #b9d9bd8f, transparent);
     padding: 2em;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     color: #345234;
   }
-  .main-header-logo {
-    display: flex;
-    align-items: center;
-    font-family: 'Shantell Sans', cursive;
-  }
-  .main-header-logo .main-header-haeding {
+  .main-header-haeding {
     font-family: 'Shantell Sans', cursive;
   }
   
